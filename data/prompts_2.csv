@@ -1,0 +1,184 @@
+Topic,Prompts (string)
+ml models on virtual machines,"“To train machine learning (ML) models on virtual machines (VMs), you can follow these general steps:
+Set up a virtual machine: Choose a cloud provider or a virtualization software to create a virtual machine. Some popular cloud providers include Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP). Install the operating system and necessary software on the VM.
+Install dependencies: Install the required dependencies for ML training on the virtual machine. This typically includes libraries like TensorFlow, PyTorch, scikit-learn, or any other libraries specific to your ML framework or tools.”"
+Google Ads headlines,"“Write a Google Ads headline for [product or service] that highlights the benefits of [product or service].
+Create a Google Ads headline for [product or service] that targets [target audience].”"
+Google Ads and Facebook Ads:,"“Headline: Create a compelling headline that summarizes the key benefits of your product or service. Use action-oriented language and highlight the pain points that your product or service solves.
+Description: Write a clear and concise description that provides more information about your product or service. Be sure to include a call to action, such as ""Learn more"" or ""Buy now."""
+Description prompts,"“Write a Google Ads description for [product or service] that explains the features and benefits of [product or service].Create a Facebook Ads description for [product or service] that tells a story about [product or service].
+Generate a persuasive ad description for [product or service] that will convince people to buy.”
+"
+Call to action prompts:,"“Write a Google Ads call to action that tells people what to do next.
+Create a Facebook Ads call to action that encourages people to click the ""Learn More"" button.”"
+Automated segmenation,"“Automated segmentation refers to the process of automatically dividing or separating an image or data into distinct regions or segments based on predefined criteria or algorithms. It is a common task in various fields such as computer vision, medical imaging, and data analysis.”"
+generative ai chatbots,"“Tell me a joke."""
+generative ai chatbots,"""Can you recommend a good book to read?"""
+conversation with chatbots,“Sure! Let's have a conversation. I'll play the role of the chatbot. Feel free to ask me anything or start the conversation with a specific topic or question.”
+Tech Writer,"“""I want you to act as a tech writer. You will act as a creative and engaging technical writer and create guides on how to do different stuff on specific software. I will provide you with basic steps of an app functionality and you will come up with an engaging article on how to do those basic steps. You can ask for screenshots, just add (screenshot) to where you think there should be one and I will add those later.”"
+Makeup Artist,"“I want you to act as a makeup artist. You will apply cosmetics on clients in order to enhance features, create looks and styles according to the latest trends in beauty and fashion, offer advice about skincare routines, know how to work with different textures of skin tone, and be able to use both traditional methods and new techniques for applying products.”"
+Muslim imam,"“Act as a Muslim imam who gives me guidance and advice on how to deal with life problems. Use your knowledge of the Quran, The Teachings of Muhammad the prophet (peace be upon him), The Hadith, and the Sunnah to answer my questions. Include these source quotes/arguments in the Arabic and English Languages”"
+stable prompts,"“realistic car 3 d render sci – fi car and sci - fi robotic factory structure in the coronation of napoleon painting and digital billboard with point cloud in the middle, unreal engine 5, keyshot, octane, artstation trending, ultra high detail, ultra realistic, cinematic, 8 k, 1 6 k, in style of zaha hadid, in style of nanospace michael menzelincev, in style of lee souder, in plastic, dark atmosphere, tilt shift, depth of field,"""
+animation,"""kyoto animation girl wearing cyberpunk intricate streetwear riding dirt bike, respirator, detailed portrait, cell shaded, 4 k, concept art, by wlop, ilya kuvshinov, artgerm, krenz cushart, greg rutkowski, pixiv. cinematic dramatic atmosphere, sharp focus, volumetric lighting, cinematic lighting, studio quality"""
+conversation between bard chatgpt,"Bard 1: “Hello there! I am Bard ChatGPT. How can I assist you today?”. Chatgpt1:” Greetings, fellow bard! I am Bard ChatGPT 2. It's a pleasure to meet you. What tales shall we weave together?”"
+Beautiful prompts related to sky,"“Imagine you could fly through the sky like a bird. Describe the sensation and the sights you encounter."""
+beautiful conversation between two birds,"Scene: A pair of bluebirds are perched on a branch of a willow tree, watching the sunset."
+,"Bird 1: Oh, the sky is so beautiful tonight!"
+,"Bird 2: Yes, it is. The colors are simply breathtaking."
+Literature,"“i want you to see a good literature. Write a blog post about how to achieve your goals.
+Create a video about how to overcome your fears.
+Generate a poem about the power of self-improvement”"
+Personal development:,"“Write a blog post about how to achieve your goals.
+Create a video about how to overcome your fears.
+Generate a poem about the power of self-improvement.”
+"
+Science:,"“Write a blog post about the latest scientific discovery.
+Create a video explaining a complex scientific concept in a way that everyone can understand.
+Generate a poem about the beauty of the natural world.”
+"
+Art:,"“Write a review of a recent art exhibition.
+Create a video about the history of a famous work of art.
+Generate a poem about the beauty of art.”
+"
+Technology,"“Write a blog post about the future of artificial intelligence.
+Create a video essay about the ethics of social media.
+Generate a podcast episode about the latest technological trends.”
+"
+History:,"“ Write a historical fiction novel about the American Revolution.
+Create a documentary about the rise and fall of the Roman Empire.
+Generate a podcast episode about the history of video games.”
+"
+prompts on cloud,"“
+Focus on the benefits of cloud computing.
+Use clear and concise language.
+Be creative and engaging.
+Keep your prompts relevant to your target audience”.
+"
+prompts on cloud,"“
+Use clear and concise language.
+Be specific about the topic of your prompt.
+Include keywords that people are likely to search for.
+Make your prompt interesting and engaging.
+Keep your prompt to the point.
+“"
+prompts on NLU tasks:,"“
+Focus on the specific task that you want to accomplish.
+Use clear and concise language.
+Keep your prompts interesting and engaging.
+Use humor or other creative elements to make your prompts stand out.
+“"
+prompts for training NLI tasks,"“s the statement true, false, or can't be determined? 'The cat is sleeping on the couch.'""
+""Given the premise 'The sun is shining brightly,' choose the most appropriate inference: 'It is a sunny day outside.'"""
+prompt for describing a beautiful scenario of rainfall on summer days,"""Close your eyes and imagine a picturesque summer day, where the sun shines brilliantly in a clear blue sky. Birds sing merrily, and the air is filled with a gentle warmth. Now, describe the magical transformation that takes place as the first raindrops begin to fall, gracefully breaking the summer's embrace."""
+beautiful scenario on cloudy rainbow,"“The sight of the cloudy rainbow evokes a sense of wonder and awe. It paints a magnificent canvas in the sky, reminding us of the delicate balance between sunlight and rain. The gentle curves of the rainbow seem to stretch endlessly, as if inviting us to chase its elusive end.”"
+beautiful scenario on cloudy rainbow and a bit of snowfall,"“As delicate snowflakes continue to fall gently from the sky, they drift down, softly landing on the ground and transforming the landscape into a magical winter wonderland. The snowflakes catch the rays of sunlight that pierce through the clouds, creating a dazzling sparkle that harmonizes with the radiant colors of the rainbow.”"
+beautiful scenario on cloudy rainbow and a bit of snowfall,"“In the presence of this extraordinary sight, you can't help but feel a profound sense of awe and wonder. It's a moment that evokes a feeling of pure magic and invites you to pause and appreciate the beauty that surrounds you. It's a symphony of nature's elements—clouds, rainbows, and snow—coming together in perfect harmony.”"
+beautiful scenario about a beautifull sunset with deep ocean sounds,"“The air is filled with a salty breeze, carrying the scent of the ocean and a hint of seaweed. The mingling of the salty tang and the earthy undertones evokes a sense of nostalgia and tranquility. It's a fragrance that instantly transports you to a place of calm and introspection”"
+beautiful scenario about a early morning sunset,"""Picture yourself in the tranquil embrace of nature, standing on a serene hilltop as the first rays of the sun paint the sky in a breathtaking display. The world around you is hushed, and a sense of stillness permeates the air. Now, describe the awe-inspiring scene as the early morning sunrise unfolds before your eyes."""
+beautiful scenario about a sunset,"“As the sun sinks lower, the colors intensify, igniting the sky in a fiery display. The tranquil waves of the ocean mirror the vivid hues, transforming the water into a shimmering, liquid gold. It's as if the entire world holds its breath in anticipation of the ethereal show unfolding before it.”"
+beautiful scenario about a sunflowers,"“Imagine a golden field stretching as far as the eye can see, bathed in the warmth of the sun. Tall and majestic sunflowers sway gently in the summer breeze, their vibrant yellow petals like rays of sunshine brought to life”"
+beautiful scenario about a birth of baby movements,"“Imagine a tender and beautiful scenario where the anticipation of new life fills the air. In a cozy and lovingly prepared room, a mother-to-be lies on a soft bed, cradling her growing belly with a sense of wonder and awe. As she gently rests her hand on her abdomen, she feels the delicate movements of her unborn baby for the first time.”"
+women,"""beautiful, young woman, cybernetic, cyberpunk, detailed gorgeous face, flowing hair, vaporwave aesthetic, synthwave , digital painting, artstation, concept art, smooth, sharp focus, illustration, art by artgerm and greg rutkowski and alphonse mucha"""
+Mathematical History Teacher,"""I want you to act as a mathematical history teacher and provide information about the historical development of mathematical concepts and the contributions of different mathematicians. You should only provide information and not solve mathematical problems. Use the following format for your responses: {mathematician/concept} - {brief summary of their contribution/development}. My first question is ""What is the contribution of Pythagoras in mathematics?"""""
+"Proofreader""","“I want you act as a proofreader. I will provide you texts and I would like you to review them for any spelling, grammar, or punctuation errors.”"
+beautiful scenario on baby in the mothers ocean,"“The azure waters stretch out as far as the eye can see, their gentle ebb and flow mirroring the tender love shared between mother and child. The sunlight dances upon the surface, casting shimmering reflections that paint a mesmerizing tapestry of light.”"
+beautiful scenario about a racing,"“Imagine a scene set on a warm summer day, where a vibrant racetrack comes to life with a buzzing energy and anticipation. The air is filled with the invigorating scent of freshly cut grass and the faint aroma of fuel. Spectators line the sidelines, eagerly awaiting the exhilarating race that is about to unfold."
+beautiful scenario about a life,"“As the years pass, wisdom is gained through experiences and shared stories. Older generations pass down their knowledge to younger ones, creating a tapestry of intergenerational understanding. Respect for elders is a cornerstone of society, as their wisdom and guidance are treasured and sought after.”"
+beautiful scenario about a trees,"“As sunlight filters through the branches, it casts a mesmerizing dappled pattern on the forest floor, creating a play of light and shadow. The gentle rustling of leaves creates a soothing melody, as if the trees themselves are whispering secrets to one another.”"
+beautiful scenario about a climate,"“In this idyllic setting, vibrant flowers bloom in an array of colors, painting the landscape with their delicate petals. Bees and butterflies flit gracefully from blossom to blossom, their wings creating a gentle hum that adds to the symphony of nature. The scent of blooming flowers perfumes the air, infusing it with a sweet fragrance that fills your senses with delight.”"
+beautiful scenario about a earth creatures,"“In this enchanting scene, butterflies gracefully flutter from flower to flower, their delicate wings showcasing an array of brilliant patterns and hues. Birds of every size and species fill the air with their melodious songs, creating a symphony of nature's music.”"
+beautiful scenario about a gods created this earth,"“The gods breathed life into the creatures that would inhabit their creation. From the graceful flight of birds to the gentle strides of deer, every creature bore a spark of divine craftsmanship. They filled the oceans with creatures of myriad colors and forms, from the graceful dance of dolphins to the mystical depths where ancient whales roamed.”"
+beautiful scenario about a plants,"“The air is filled with a symphony of fragrances, as delicate blossoms release their sweet scents into the breeze. The garden is a tapestry of colors, with flowers of every hue blooming in harmonious unity. From fiery red roses to soft pink cherry blossoms, and from brilliant orange marigolds to sunny yellow daisies, the garden is a living kaleidoscope of nature's beauty.”"
+beautiful scenario about a sunset inthe ocean,"“The sky above is adorned with wisps of clouds, like strokes of a painter's brush. These clouds catch the vivid palette of the sun, transforming into hues of fiery oranges, brilliant pinks, and velvety purples. The sky becomes a breathtaking tapestry, a captivating backdrop for the grand finale of the day.”"
+prompts about a good textbook,"“What qualities make a textbook truly exceptional and effective for learning?"""
+end of life,"“""Reflect on the meaning of a life well-lived and the legacy you hope to leave behind.""
+""Consider the importance of embracing the present moment and cherishing the time we have.""
+""Explore the concept of mortality and how it shapes our perspectives and priorities in life."""
+graceful of colors in life,"“""Explore the kaleidoscope of emotions and the palette of colors they bring.""
+""Imagine a world where every step is a brushstroke of vibrant shades.""
+""In a single stroke of color, depict the essence of a life well-lived.""
+""Tell a tale of how a splash of color can transform the mundane into the extraordinary."""
+colors of light,"“Imagine a world where each color of light has a unique magical property. Describe one color and its extraordinary ability.""
+""Write a poem inspired by the vibrant spectrum of colors that paints the sky during a radiant sunset.""
+""Discuss the significance of the primary colors in the world of art and how they blend to create a multitude of shades and hues.""
+""Imagine a futuristic city illuminated by a symphony of neon lights. Describe the captivating display of colors and their impact on the atmosphere."""
+ colors of rainbow,"“Imagine a world where each color of the rainbow represents a different superpower. Which color would you choose, and what power would it possess?""
+""Write a poem inspired by the vibrant colors of the rainbow and their symbolism in nature.""
+""If you could paint a masterpiece using only the colors of the rainbow, what scene or image would you create?"""
+deep of ocean,"“Imagine you're standing on a pristine beach, gazing at the vast expanse of the ocean. Depict the ever-changing colors that you see.""
+""Discuss the symbolism behind the different hues of the ocean, from the tranquil turquoise near the shore to the deep, mysterious indigo further out.""
+""Paint a vivid picture of a breathtaking sunrise reflecting off the surface of the ocean, creating an array of vibrant colors."""
+generative ai,"""Unleash the creative power of a generative AI and watch imagination come to life in pixels."""
+generative chatbots,"""Engage in limitless conversations with a generative chatbot and unlock a world of virtual intelligence."""
+human inferenced systems,"""Unleashing the power of human inference in intelligent systems."""
+inferenced systems,"""Unleashing the power of inference: Exploring the limitless potential of intelligent systems."""
+generative and human mind,"""Exploring the blurred boundaries: The interplay of creativity between generative minds and human minds."""
+human mind,"""The human mind: a universe of thoughts, dreams, and endless possibilities."""
+soul of heart,"""The soul of the heart whispers the language of love."""
+soul of life,"""The soul of life dances in the harmony of existence."""
+heartful of grace,"""A heartful of grace illuminates every step along life's journey."""
+god creation of planet,"“In the realm of divine artistry, a deity weaves stardust and dreams, birthing a celestial masterpiece: a planet born of celestial whispers and cosmic brushstrokes.”"
+planet space,"""Beyond the cosmic veil, a distant planet beckons, its mysteries waiting to unfold amidst the vast expanse of space."""
+farming,"“Hands in the soil, hearts on the harvest—the farmer's labor nurtures life's bounty.”"
+farming and earth,"“Nurturing the land, sowing seeds of life, farmers embrace the Earth's embrace.”"
+farming life,"“Where golden fields meet calloused hands, a timeless bond between farmers and the land thrives.”"
+culture,"""Culture intertwines like a tapestry, weaving traditions and values, bridging hearts across boundaries."""
+family,"“In a warm embrace, generations entwined, their laughter and love creating cherished memories. Family, the heart's home where bonds grow stronger with time.”"
+artist,"“With a stroke of the brush, the artist unveils emotions that words fail to convey.”"
+artist of light,"""In the master's touch, light danced on the canvas, creating a symphony of colors that whispered secrets of the universe."""
+army,"“Amidst the chaos, they stood united, an unstoppable force with unwavering hearts.”"
+Technology Transferer,"""I want you to act as a Technology Transferer, I will provide resume bullet points and you will map each bullet point from one technology to a different technology. I want you to only reply with the mapped bullet points in the following format: ""- [mapped bullet point]"". Do not write explanations. Do not provide additional actions unless instructed. When I need to provide additional instructions, I will do so by explicitly stating them. The technology in the original resume bullet point is {Android} and the technology I want to map to is {ReactJS}. My first bullet point will be ""Experienced in implementing new features, eliminating null pointer exceptions”"
+StackOverflow Post,"""I want you to act as a stackoverflow post. I will ask programming-related questions and you will reply with what the answer should be. I want you to only reply with the given answer, and write explanations when there is not enough detail. do not write explanations. When I need to tell you something in English, I will do so by putting text inside curly brackets {like this}. My first question is ""How do I read the body of an http.Request to a string in Golang"""""
+Gomoku player,"“Let's play Gomoku. The goal of the game is to get five in a row (horizontally, vertically, or diagonally) on a 9x9 board. Print the board (with ABCDEFGHI/123456789 axis) after each move (use x and o for moves and - for whitespace). You and I take turns in moving, that is, make your move after my each move. You cannot place a move an top of other moves. Do not modify the original board before a move. Now make the first move”"
+playing games between chatbots,"""Chatbot adversaries engaged in a digital duel, exchanging coded words in an endless game of wit and algorithms."""
+motivations,"“What drives you to pursue your goals and dreams?""
+""Describe a time when you faced a significant challenge and the motivations that helped you overcome it.""
+""What inspires you to make a positive difference in the lives of others?""
+""Reflect on a personal achievement that you are proud of and the motivations that fueled your success.""
+""Discuss the role of intrinsic and extrinsic motivations in your life and how they influence your actions.""
+""Describe a role model or mentor who has motivated and inspired you to become the best version of yourself."""
+lessons in life,"“If you could go back in time, what advice would you give your younger self?""
+""Share a life lesson you learned from a mistake or failure.""
+""Discuss the importance of perseverance in overcoming challenges and achieving goals.""
+""Describe a moment when you realized the power of kindness and its impact on others.""
+""Reflect on a lesson you learned about the importance of gratitude and appreciation."""
+friends,"“Imagine you and your friends are planning a dream vacation together. Describe the destination and the exciting activities you would do as a group.""
+""Explore the concept of friendship across different cultures and how it may be expressed and valued in diverse ways.""
+""Reflect on a time when you and your friends faced a conflict or disagreement. How did you work through it and what did you learn from the experience?""
+""Discuss the role of humor and laughter in friendships and how it contributes to creating joyful memories."""
+good lesson teaches by time,"""Describe a personal experience where the passage of time taught you the value of forgiveness and letting go.""
+""Share a story about how time has taught you the significance of cherishing the present moment and living in the now.""
+""Discuss a lesson you have learned from the passing of time about the power of resilience and overcoming adversity.""
+""Describe a situation where the wisdom gained over time has taught you the importance of setting priorities and managing time effectively.""
+""Reflect on a lesson learned through the passage of time about the significance of self-reflection and personal growth."""
+time in end of life,"""Reflect on a cherished memory from the end of someone's life that holds deep significance for you. Describe the atmosphere, the conversations, and the emotions that surrounded this poignant time, and explore the lessons or insights you gained from this experience."""
+end of life,"“I'm really sorry to hear that you're feeling this way, but I can't provide the help that you need. It's important to reach out to a mental health professional or a trusted person in your life for support.”"
+learning life,"“Reflect on the importance of embracing a lifelong learning mindset and how it has shaped your personal growth.""
+""Share a valuable lesson you learned from a challenging experience and how it has influenced your approach to life.""
+""Describe a mentor or teacher who had a profound impact on your learning journey and explain how they influenced your perspective.""
+""Discuss the role of curiosity in fostering a love for learning and how it has enriched your life.""
+""Reflect on the benefits of continuous learning and how it has opened doors to new opportunities and personal development."""
+enhancement of technology,"“Discuss the ethical considerations surrounding genetic engineering and its potential to enhance human capabilities. What are the potential benefits and concerns?""
+""Imagine a world where renewable energy sources have been fully optimized and integrated into our daily lives. Describe the benefits for the environment and society.""
+""Explore the potential of nanotechnology in medical advancements. How could nanotechnology enhance diagnostics, treatment, or even regenerative medicine?""
+""Consider the possibilities of quantum computing and its potential to revolutionize computing power and solve complex problems. Describe a scenario where quantum computing has made a significant impact."""
+problems in life,"“Explore the ways in which stress and anxiety manifest in everyday life and strategies to cope with them.""
+""Examine the impact of perfectionism on mental health and personal growth.""
+""Discuss the effects of loneliness and isolation on overall well-being and strategies to combat them.""
+""Reflect on the challenges of making important life decisions and finding one's true path.""
+""Examine the societal issues surrounding body image and the importance of promoting self-love and body positivity."""
+happiness:,"“escribe a place or activity that always brings a smile to your face and fills your heart with happiness.""
+""Discuss the importance of gratitude in cultivating happiness and contentment.""
+""Share a personal story of overcoming challenges and finding happiness on the other side.""
+""What role does kindness play in spreading happiness to others?""
+""Reflect on the impact of positive relationships and social connections on overall happiness."""
+If AGI did have a common language what properties would it have,"""It is not clear what properties a common lanquage for AGI would have, as AGI has not yet been developed and there is no consensus on what such a language would look like. However, some possible properties that a common language for AGI might have include: Precision: A common language for AGI would need to be precise and unambiguous, in order to ensure that AGI systems can understand and communicate information accurately. Expressiveness: A common language for AGl would need to be expressive enough to allow AGI systems to communicate a wide range of concepts and ideas. Efficiency: A common language for AGl would need to be efficient, in order to allow AGI systems to communicate large amounts of information quickly and accurately. Learnability: A common language for AGI would need to be easy for AGI systems to learn, in order to allow them to communicate effectively with humans and other AGl systems. Flexibility”"
+Gripper,"""Gripped by a strange fear, England closes its doors to the outside world.Â In a tunnel beneath Wales one man opens a crack in a mysterious stone wall, and all over the island of Britain people react with horror to perfectly normal machines. Abandoning their cars on the roads and destroying their own factories, many flee the cities for the countryside, where they return to farming and an old-fashioned life. When families are split apart and grown-ups forget how they used to live, young people face unexpected challenges. A classic in the teen sci-fi genre, perfect for those who have read all the contemporary YA dystopian novels and want to see where it all began."""
+Coffee,"""Coffee is a very subjective thing. Some people like coffee that borders on tea, others like the stuff that a certain national chain named after a famous Battlestar Galactica pilot serves. For the record, I love the slightly-sour taste of Dunkin Donuts coffee and I find the stuff made by ""that other chain"" to be akin to re-hydrated cigarette ash. For many years, we still percolated coffee...with most big-name brands of pre-ground coffee, you needed a percolator to bring out the flavor in it, but again, your tastes may vary.<br /><br />With my Keurig, my favorite coffee was Paul Neumans Extra Bold....because it didn't seem Extra Bold. Until you buy 80 of them and get tired of the flavor. Then, my favorites were the Caribu's....but something happened to that brand (see reviews) and I agree, they did something...either they don't put as much in the cups or they changed the blend, the sourcing of the beans, etc......wasted money on Caribu and wont go back to the brand.<br /><br />So Wolfgang Puck got the nod, tried 4 different flavors. This one, Sorrento, is not my favorite of the bunch (currently Colombian Chef's Reserve). It has a bolder strength (which I believe hard core coffee drinkers would consider Medium), but to me it has a simple burnt flavor to it. Cream and Sweetener don't correct for this, and thus I'm a bit disappointed....but again it was a stab in the dark.<br /><br />I think if you prefer a slightly bolder, slightly more burnt flavor in your coffee...”"
+Birthday move,"“Happy Birthday to you. Happy Birthday to you. Happy Birthday to Creed. Happy Birthday to you. Yeah! Alright, skip around the room. Skip around the room. We want -- OK, alright. Yeah, don't do that. You're gonna break something."""
+Priestiely,"""Billy is a street urchin, pickpocket and petty thief. Mister Creecher is a monstrous giant of a man who terrifies all he meets. Their relationship begins as pure convenience. But a bond swiftly develops between these two misfits as their bloody journey takes them ever northwards on the trail of their target ... Victor Frankenstein. Friendship, trust and betrayal combine to form a dangerous liaison in this moving and frightening new book from Chris Priestle"
+Dogs,"""I feed raw to my dogs, but am unable to get green tripe. I thought this would be a good substitute, but am disappointed. It seems to contain a lot of water and the color tells me it is extremely processed. They both get tummy upsets after eating it, also. Back to my other brand."""
+Angels,"""Angela's cats are cute. So cute that you just want to eat them. But you can't eat cats. You can't eat cats, Kevin."""
+Enclosement,"""""You must enclose the advertisement and the money to pay for it under a cover directed to the editor of the _Herald_; you must put it, the first opportunity you have, into the post at Lowton; answers must be addressed to J.E., at the post-office there; you can go and inquire in about a week after you send your letter, if any are come, and act accordingly.""This scheme I went over twice, thrice; it was then digested in my mind; I had it in a clear practical form: I felt satisfied, and fell asleep.With earliest day, I was up: I had my advertisement written, enclosed, and directed before the bell rang to rouse the school; it ran thus:--"""
+story,"""Since Amber's eighteen year old brother Liam died suddenly a year ago, her life has been miserable as her family struggles with their grief. So when Liam's best friend Tyler shows an interest she feels she has found someone who understands. However, she soon finds she is involved in something beyond her control and things go from bad to worse. Can she find the strength and resolve to put things right when her whole life feels such a mess? A gripping story of love, grief, friendship and trust. The characters and their situations are completely believable and Amber's doubts, guilt and confused emotions are written with real understanding. Ultimately uplifting, this is a compelling"
+order,"“It's a big order. Thanks Kenny. Yeah, thank you. Hey, how's Annie? Oh, she's great. This is us last year in Bermuda. Lovely place. You ever been to Bermuda?"""
