@@ -26,7 +26,7 @@ from pinecone import Pinecone
 embeddings = OpenAIEmbeddings(model="text-embedding-3-small")
 
 pc = Pinecone(
-        api_key='pcsk_3XN6UG_SNXkXjVvwEKDtRkCBZZh4AdH7uZ88U1g2qBAtBVbWLCrBHNLg385jTPxK72VeqS'
+        api_key=os.environ['PINECONE_API_KEY']
     )
 
 learn_index = pc.Index('sparklearn')
